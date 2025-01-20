@@ -16,7 +16,7 @@ This project is a web application designed to transcribe audio from YouTube vide
 
 ## 📊 Workflow Diagram
 
-![Workflow Diagram]![image](https://github.com/user-attachments/assets/8819c4e5-5ef5-4040-8312-82c9ca12582c)
+![image](https://github.com/user-attachments/assets/8819c4e5-5ef5-4040-8312-82c9ca12582c)
 
 
 ---
