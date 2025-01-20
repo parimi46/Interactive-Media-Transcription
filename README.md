@@ -41,17 +41,17 @@ This project is a web application designed to transcribe audio from YouTube vide
 
 1. **Clone this repository**:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/parimi46/Interactive-Media-Transcription.git
 
 2. **Navigate to the project folder**:
    ```bash
-   cd <project_directory>
+   cd Interactive-Media-Transcription
 3. **Install required dependencies**:
    ```bash
    pip install -r requirements.txt
 4. **Run the application**:
    ```bash
-   streamlit run app.py
+   streamlit run chatbot.py
 
 5. Open the app in your browser 🌐 and paste the YouTube video URL to start transcribing.
 
