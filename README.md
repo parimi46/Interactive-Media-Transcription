@@ -60,3 +60,19 @@ This project is a web application designed to transcribe audio from YouTube vide
 - ✍️ **Facilitates note-taking, content review, and multimedia learning**.
 
 ---
+
+---
+
+## 🤝 Acknowledgements
+
+This project was developed during an internship at **PLUMSOFT**, focusing on innovative solutions for enhancing digital media accessibility. 🎉
+
+---
+
+---
+
+## ⚖️ License
+
+📜 Licensed under the [MIT License](LICENSE).
+
+---
