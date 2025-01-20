@@ -12,7 +12,14 @@ This project is a web application designed to transcribe audio from YouTube vide
 - 💻 **User-Friendly Interface**: Built with Streamlit and styled with custom CSS for a visually appealing and intuitive design.
 
 ---
+---
 
+## 📊 Workflow Diagram
+
+![Workflow Diagram](![image](https://github.com/user-attachments/assets/8819c4e5-5ef5-4040-8312-82c9ca12582c)
+)
+
+---
 ## 🛠️ Technologies Used
 
 - **Backend**: 🐍 Python
