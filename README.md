@@ -73,6 +73,7 @@ This project was developed during an internship at **PLUMSOFT**, focusing on inn
 
 ## ⚖️ License
 
-📜 Licensed under the [MIT License](LICENSE).
+📜 Licensed under the [GNU General Public License v3.0](LICENSE).
 
 ---
+
