@@ -42,13 +42,16 @@ This project is a web application designed to transcribe audio from YouTube vide
 1. **Clone this repository**:
    ```bash
    git clone <repository_url>
-cd <project_directory>
 
-pip install -r requirements.txt
+2. **Navigate to the project folder**:
+   ```bash
+   cd <project_directory>
+3. **Install required dependencies**:
+   ```bash
+   pip install -r requirements.txt
+4. **Run the application**:
+   ```bash
+   streamlit run app.py
 
-streamlit run app.py
+5. Open the app in your browser 🌐 and paste the YouTube video URL to start transcribing.
 
-Open the app in your browser 🌐 and paste the YouTube video URL to start transcribing.
-
-
-Replace `<repository_url>` and `<project_directory>` with your actual repository URL and project directory name before using it in your README. This provides a user-friendly guide for setting up and running the application.
