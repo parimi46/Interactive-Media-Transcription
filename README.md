@@ -2,7 +2,7 @@
 
 This project is a web application designed to transcribe audio from YouTube videos and generate interactive, clickable timestamps. By leveraging cutting-edge technologies like OpenAI's Whisper model and yt-dlp, the app simplifies the process of extracting, processing, and navigating through spoken content from YouTube. Built using Streamlit, it offers a sleek and user-friendly interface for effortless interaction.
 
-
+---
 
 ## ✨ Features
 
@@ -24,16 +24,12 @@ This project is a web application designed to transcribe audio from YouTube vide
 
 ---
 
----
-
 ## 🚀 Project Workflow
 
 1. 🔗 **Input YouTube Video URL**: Enter the YouTube video URL into the app.
 2. 📥 **Audio Extraction**: `yt-dlp` downloads the audio in the best format.
 3. 📝 **Transcription**: The Whisper model processes the audio and generates text with timestamps.
 4. 🎯 **Interactive Output**: Text and clickable timestamps are displayed alongside the video.
-
----
 
 ---
 
