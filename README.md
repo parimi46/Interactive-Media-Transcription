@@ -51,3 +51,12 @@ This project is a web application designed to transcribe audio from YouTube vide
 
 5. Open the app in your browser 🌐 and paste the YouTube video URL to start transcribing.
 
+---
+
+## 🎯 Key Benefits
+
+- 🦻 **Improves accessibility** for those with hearing impairments or language barriers.
+- 📚 **Helps students, researchers, and content creators** quickly reference specific parts of a video.
+- ✍️ **Facilitates note-taking, content review, and multimedia learning**.
+
+---
